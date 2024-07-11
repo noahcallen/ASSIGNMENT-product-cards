@@ -1,0 +1,18 @@
+body {
+  background-color: aquamarine;
+}
+
+.container {
+  width: 1000px;
+}
+
+.card-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.stock {
+  background-color: slategray;
+  color: yellow;
+  width: max-content;
+}
