@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+.container {
+  width: 1000px;
+}
+
+.card-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.stock {
+  background-color: slategray;
+  color: yellow;
+  text-align: center;
+}
+.btn-primary {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.col {
+  padding: 20px;
+}
+
+.card {
+  border: solid 1px lightblue;
+  height: 500px;
+}

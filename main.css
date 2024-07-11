@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+.container {
+  display: flex;
+  width: 1000px;
+}
+
+.card-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.stock {
+  background-color: slategray;
+  color: yellow;
+  text-align: center;
+}
+.btn-primary {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.col {
+  padding: 20px;
+}
+
+.card {
+  border: solid 5px lightblue;
+  height: 675px;
+}
+
+.card-text {
+  display: flex;
+  justify-content: center;
+}
